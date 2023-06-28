@@ -1,0 +1,65 @@
+# Prerequisites
+*.d
+
+# Object files
+*.elf
+*.ko
+*.o
+*.obj
+
+# Linker output
+*.exp
+*.ilk
+*.map
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.a
+*.la
+*.lib
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.dylib
+*.so
+*.so.*
+
+# Executables
+*.app
+*.exe
+*.hex
+*.i*86
+*.out
+*.x86_64
+asm/asm
+corewar/corewar
+corewar_binaries
+
+# Debug files
+*.dSYM/
+*.idb
+*.pdb
+*.su
+
+# Kernel Module Compile Results
+*.cmd
+*.mod*
+.tmp_versions/
+Mkfile.old
+Module.symvers
+dkms.conf
+modules.order
+
+# VsCode
+.vscode
+
+# Yolo
+*.s
+*.cor
+
+# test
+tests
