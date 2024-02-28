@@ -306,3 +306,17 @@ For the rest, think about it and read `op.h` and `op.c.`
 If ever something is unclear, ask the assistants and/or the unit coordinator for more precise directions.
 Please verify that your programs are completely up to the coding style.
 Concerning the output messages, they are not expected to be an exact character length, but they must be relevant. Ideally, reproduce reference binary behavior.
+
+## FINAL MARK
+
+### MARK: 85 / 85 (100%)
+
+- Basics (5 / 5)
+- Data Structure (5 / 5)
+- Parsing (18 / 18)
+- Robustness (35 / 35)
+- Preliminary (2 / 2)
+- Assembler (10 / 10)
+- Virtual Machine - Basics (5 / 5)
+- Virtual Machine - Algorithm app. (3 / 3)
+- Virtual Machine - Scheduling (2 / 2)
